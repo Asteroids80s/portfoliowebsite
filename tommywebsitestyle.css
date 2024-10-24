@@ -11,10 +11,6 @@ body {
   flex-direction: column;
   }
 
-  .no-scroll{
-    overflow: hidden;
-  }
-
   h1 {
     color: #141E30;
     font-size: 3em;
