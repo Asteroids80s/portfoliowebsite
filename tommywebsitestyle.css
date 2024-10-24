@@ -327,3 +327,10 @@ object-position center;
   font-weight: bold;
 }
 
+.education-experience {
+  margin-top: 80px;
+}
+
+.education-experience p {
+  margin-top: -10px;
+}
